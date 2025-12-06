@@ -1,0 +1,19 @@
+pairs:
+  - symbol: "TRX/USDT"
+    base: "TRX"
+    quote: "USDT"
+    min_notional_usd: 50
+    max_notional_usd: 500
+    base_threshold_bps: 30
+  - symbol: "XRP/USDT"
+    base: "XRP"
+    quote: "USDT"
+    min_notional_usd: 50
+    max_notional_usd: 500
+    base_threshold_bps: 25
+  - symbol: "LTC/USDT"
+    base: "LTC"
+    quote: "USDT"
+    min_notional_usd: 50
+    max_notional_usd: 500
+    base_threshold_bps: 25
