@@ -1,0 +1,37 @@
+exchanges:
+  - id: "ex1"
+    name: "EX1"
+    ccxt_id: "binance"
+    taker_fee_bps: 7
+    maker_fee_bps: 5
+    enabled: true
+  - id: "ex2"
+    name: "EX2"
+    ccxt_id: "okx"
+    taker_fee_bps: 8
+    maker_fee_bps: 5
+    enabled: true
+  - id: "ex3"
+    name: "EX3"
+    ccxt_id: "bybit"
+    taker_fee_bps: 7
+    maker_fee_bps: 5
+    enabled: true
+  - id: "ex4"
+    name: "EX4"
+    ccxt_id: "kucoin"
+    taker_fee_bps: 8
+    maker_fee_bps: 5
+    enabled: true
+  - id: "ex5"
+    name: "EX5"
+    ccxt_id: "gate"
+    taker_fee_bps: 9
+    maker_fee_bps: 6
+    enabled: true
+  - id: "ex6"
+    name: "EX6"
+    ccxt_id: "bitget"
+    taker_fee_bps: 8
+    maker_fee_bps: 5
+    enabled: true

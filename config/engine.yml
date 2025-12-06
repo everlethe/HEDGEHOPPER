@@ -1,0 +1,9 @@
+engine:
+  loop_interval_sec: 2
+  orderbook_depth_levels: 20
+  max_total_notional_usd: 10000
+  max_notional_per_trade_usd: 500
+  max_open_trades: 50
+  daily_loss_cut_usd: 200
+  max_consecutive_losses: 10
+  dry_run: true
